@@ -1,0 +1,7 @@
+*.ipynb_checkpoints/
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
+*.json
+*.tmp
